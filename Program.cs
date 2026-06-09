@@ -12,7 +12,7 @@ public class Program
             Ingrese una opción:
             1. Agregar Auto
             2. Agregar Moto
-            3. Listar todos los vehículos
+            3. Lista de todos los vehículos
             0. Salir");
             switch (opcion)
             {
@@ -34,6 +34,26 @@ public class Program
             }
         } while (opcion != 0);
     }
-    
+    static void AgregarAuto()
+    {
+        Console.Write("Ingrese marca: ");
+        string marca = Console.ReadLine();
+        Console.Write("Ingrese modelo: ");
+        string modelo = Console.ReadLine();
+        Auto auto = new Auto { Marca = marca, Modelo = modelo, VelocidadActual = 0 };
+        listaVehiculos.Add(auto);
+        Console.WriteLine("Auto añadido!");
+    }
+    static void AgregarMoto()
+    {
+        Console.Write("Ingrese marca: ");
+        string marca = Console.ReadLine();
+        Console.Write("Ingrese modelo: ");
+        string modelo = Console.ReadLine();
+
+        Moto moto = new Moto { Marca = marca, Modelo = modelo, VelocidadActual = 0 };
+        listaVehiculos.Add(moto);
+        Console.WriteLine("Moto añadida!");
+    }
 }
 
