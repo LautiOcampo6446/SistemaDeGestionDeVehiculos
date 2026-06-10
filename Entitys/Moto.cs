@@ -1,14 +1,12 @@
 public class Moto : Vehiculo
+{
+    public override void Acelerar()
     {
-        // La moto es más rápida, así que acelera más que el auto
-        public override void Acelerar()
-        {
-            VelocidadActual += 20; 
-        }
-
-        // Y frena distinto también
-        public override void Frenar()
-        {
-            VelocidadActual -= 10;
-        }
+        VelocidadActual += 30;
     }
+
+    public override void Frenar()
+    {
+        VelocidadActual -= 15;
+    }
+}

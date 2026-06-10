@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\bin\Debug\net9.0\SistemaDeGestionDeVehiculos.exe
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\bin\Debug\net9.0\SistemaDeGestionDeVehiculos.deps.json
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\bin\Debug\net9.0\SistemaDeGestionDeVehiculos.runtimeconfig.json
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\bin\Debug\net9.0\SistemaDeGestionDeVehiculos.dll
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\bin\Debug\net9.0\SistemaDeGestionDeVehiculos.pdb
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\obj\Debug\net9.0\SistemaDeGestionDeVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\obj\Debug\net9.0\SistemaDeGestionDeVehiculos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\obj\Debug\net9.0\SistemaDeGestionDeVehiculos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\obj\Debug\net9.0\SistemaDeGestionDeVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\obj\Debug\net9.0\SistemaDeGestionDeVehiculos.sourcelink.json
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\obj\Debug\net9.0\SistemaDeGestionDeVehiculos.dll
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\obj\Debug\net9.0\refint\SistemaDeGestionDeVehiculos.dll
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\obj\Debug\net9.0\SistemaDeGestionDeVehiculos.pdb
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\obj\Debug\net9.0\SistemaDeGestionDeVehiculos.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Sistema de Gestion de Vehiculos\SistemaDeGestionDeVehiculos\obj\Debug\net9.0\ref\SistemaDeGestionDeVehiculos.dll
